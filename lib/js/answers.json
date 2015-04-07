@@ -1,0 +1,14 @@
+var allQuestions = [{
+	question: "What is Bender's full name",
+	choices: [
+		"Bender J Rodríguez",
+		"Bender The Great",
+		"Bender Bending Rodríguez",
+		"Bender The Robot",
+		"Bender: Bending Unit 63638"
+		],
+		correctAnswer: 2 
+	},
+	{
+		question: 
+		}]
